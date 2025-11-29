@@ -1,0 +1,7 @@
+{
+  "name": "Barakali Bozor",
+  "description": "B2B Agro-Supply platform connecting farmers and restaurants with AI-driven insights and Islamic finance integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
